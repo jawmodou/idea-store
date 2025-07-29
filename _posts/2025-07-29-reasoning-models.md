@@ -11,7 +11,7 @@ If you’ve spent any time in AI or machine learning, you’ll notice something 
 Let’s stop and really look at what’s going on.
 
 Suppose you ask a machine:  
-**"What’s the capital of Comoros?"**  
+**"What’s the capital of France?"**  
 That’s not reasoning. That’s recall. It’s like opening a drawer labeled “France” and finding the word “Paris” inside. No steps, no thinking—it just *knows* (or doesn’t).
 
 But now ask:  
