@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Reasoning LLMs"
+title: "Reasoning Models"
 date: 2025-07-29
 ---
 
-# Reasoning Models
+# Modou Jaw 
 
 If you’ve spent any time in AI or machine learning, you’ll notice something funny—people keep using big words that sound important, but no one seems to agree on what they actually mean. One of those words is **"reasoning."** It’s like the word keeps slipping away just when you think you’ve caught it. Someone writes a paper and says, “This is reasoning,” but then someone else comes along and says, “No, that’s not reasoning—this is!”
 
