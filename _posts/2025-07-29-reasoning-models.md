@@ -36,7 +36,7 @@ Additionally, most LLMs branded as reasoning models today include a **"thought"*
 Intermediate steps in reasoning models can appear in two ways. First, they may be explicitly included in the response, as shown in the previous example. Second, some reasoning LLMs, such as OpenAI's o1, run multiple iterations with intermediate steps that are not shown to the user.
 
 
-<img src="./assets/reasoning.png" alt="Reasoning Diagram" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://jawmodou.github.io/idea-store/assets/reasoning.png" alt="Reasoning Diagram" style="display: block; margin-left: auto; margin-right: auto;">
 
 <div style="text-align: center;">
   "Reasoning" is used at two different levels: 1) processing the input and generating via multiple intermediate steps and 2) providing some sort of reasoning as part of the response to the user.
